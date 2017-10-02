@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'title-bar',
+  selector: 'fw-title-bar',
   templateUrl: './title-bar.component.html',
   styleUrls: ['./title-bar.component.css']
 })
