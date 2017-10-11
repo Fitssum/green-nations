@@ -14,10 +14,10 @@ export class AppComponent {
     let config:FrameworkConfigSettings = {
       socialIcons: [
         { imageFile: 'assets/social-fb-bw.png', alt: 'Facebook', link: 'http://www.facebook.com' },
-        { imageFile: 'assets/social-fgoogle-bw.png', alt: 'Google +', link: 'http://www.google.com' },
-        { imageFile: 'assets/social-twitter-bw.png', alt: 'Twitter', link: 'http://www.twitter.com' }
+        { imageFile: 'assets/social-google-bw.png', alt: 'Google +', link: 'http://www.google.com' },
+        //{ imageFile: 'assets/social-twitter-bw.png', alt: 'Twitter', link: 'http://www.twitter.com' }
       ],
-      showLanguageSelector: true,
+      showLanguageSelector: false,
       showUserControls: true,
       showStatusBar: true,
       showStatusBarBreakpoint: 800
